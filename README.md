@@ -21,7 +21,7 @@
 
   <a href="https://discord.gg/xQF9f9yUEM">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
-      alt="Join Discord" />
+      alt="Test" />
   </a>
 
   <a href="https://www.instagram.com/glaceytt">
